@@ -49,7 +49,8 @@ clearly show Better performance for Capomulin & Ramicane compare to Infubinol, a
 ## 6. Line charts
 
 Graphical presentation of Capomulin Treatment performance clearly shows centering around mean.
-Dead or cured mice ? w150,r157,f966,j246 - we need to look further into this - as it would skew data a bit
+
+Dead or cured mice ? **_w150, r157, f966, j246_** - we need to look further into this - as it would skew data a bit
 
 <img src="Images/linechart.png" align="center" width="200"/>
 
