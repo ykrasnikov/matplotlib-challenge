@@ -3,6 +3,11 @@
   <img src="/Images/panda.gif" align="right" width="210"/>
   <img src="/Images/Laboratory.jpg" align="center" height="210"/>
 
+Code was created using **Jupiter Notebook 6.0.3 /Python 3.8.3**
+
+## Files/Results
+Jupiter  Notebook - [pymaceuticals.IPYNB](/pymaceuticals.ipynb)
+Report is included in the notebook 
 # Observations
 ## 1. Summary statistics table:
 
