@@ -1,5 +1,4 @@
 # matplotlib-challenge
-Matplotlib Homework
   <img src="/Images/anaconda.gif" align="left" width="210"/>
   <img src="/Images/panda.gif" align="right" width="210"/>
   <img src="/Images/Laboratory.jpg" align="center" height="210"/>
@@ -7,8 +6,8 @@ Matplotlib Homework
 # Observations
 ## 1. Summary statistics table:
 
-    1.1.  Best results based on min max and mean Tumor volumes were produced by Capomulin, Ramicane, Infubinol, and Ceftamin treatment regiments
-    1.2. Analysis of Mean, Median , Std  indicate that data for these four drugs is least spread and centered around mean (logically - smaller tumors). Lower SEM compare to other drugs indicating better sample representaion of population
+Best results based on min max and mean Tumor volumes were produced by Capomulin, Ramicane, Infubinol, and Ceftamin treatment regiments
+Analysis of Mean, Median , Std  indicate that data for these four drugs is least spread and centered around mean (logically - smaller tumors). Lower SEM compare to other drugs indicating better sample representaion of population
     
    **_Tumor Volume Statistics table_**
 |Drug Regimen|count|	max|	min|	mean|	median|	var|	std|	sem|
@@ -24,28 +23,34 @@ Placebo|	181|	73.212939|	45.000000|	54.033581|	52.288934|	61.168083|	7.821003|	0
 Naftisol|	186|	76.668817|	45.000000|	54.331565|	52.509285	|66.173479|	8.134708|	0.596466|
 Ketapril|	188|	78.567014|	45.000000|	55.235638|	53.698743|	68.553577|	8.279709|	0.603860|
 
-## 2. Bar charts  <img src="Images/barchart.png" align="right" width="300"/>
-    bar charts indicate that more data point were observed in Capomulin & Ramicane, least in Propriva regiment
-#
-#
-#
-## 3. Pie charts  
- <img src="Images/piechart.png" align="right" width="300"/>
-    pie charts of mice sex indicate almost equal distribution.
+## 2. Bar charts  
+bar charts indicate that more data point were observed in Capomulin & Ramicane, least in Propriva regiment
 
+<img src="Images/barchart.png" align="center" width="200"/>
+
+## 3. Pie charts  
+ 
+pie charts of mice sex indicate almost equal distribution.
+
+<img src="Images/piechart.png" align="center" width="200"/>
 
 ## 5. Box & Wiskers plots 
-<img src="Images/boxchart.png" align="right" width="300"/>
-    5.1. Box & Wiskers plots indicate already noticed earlier tight distribution.There is only one outlier found for all four drugs - in Infubinol data set. 
-    5.2. clearly show Better performance for Capomulin & Ramicane compare to Infubinol, and Ceftamin.
+
+Box & Wiskers plots indicate already noticed earlier tight distribution.There is only one outlier found for all four drugs - in Infubinol data set. 
+clearly show Better performance for Capomulin & Ramicane compare to Infubinol, and Ceftamin.
+
+<img src="Images/boxchart.png" align="center" width="200"/>
 
 ## 6. Line charts
-<img src="Images/linechart.png" align="right" width="300"/>
-    6.1. Graphical presentation of Capomulin Treatment performance clearly shows centering around mean.
-    6.2. Dead or cured mice ? w150,r157,f966,j246 - we need to look further into this - as it would skew data a bit
+
+Graphical presentation of Capomulin Treatment performance clearly shows centering around mean.
+Dead or cured mice ? w150,r157,f966,j246 - we need to look further into this - as it would skew data a bit
+
+<img src="Images/linechart.png" align="center" width="200"/>
 
 ## 7. Scatter plot
-<img src="Images/scatterchart.png" align="right" width="300"/>
-    7.1. Shows ver strong positive correlation between weight of the mouse and average tumor volume.
-    7.2  p value indicates probability of that there is no correlation is 0.000013% (less than 6 sigma ) , so we can reject null hypothesis.
 
+Shows ver strong positive correlation between weight of the mouse and average tumor volume.
+p value indicates probability of that there is no correlation is 0.000013% (less than 6 sigma ) , so we can reject null hypothesis.
+
+<img src="Images/scatterchart.png" align="center" width="200"/>
